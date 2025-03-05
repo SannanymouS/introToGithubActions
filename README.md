@@ -1,1 +1,3 @@
 # introToGithubActions
+
+Made some changes.
